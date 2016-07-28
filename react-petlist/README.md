@@ -1,3 +1,15 @@
+#Nicole Thurnau's PetList Test
+As a pre-interview screening for DogVacay, I elected to build out the react-petlist challenge. I followed the guidelines listed below. All one needs to do in order to run it on one's own system is follow the instructions in the Installing section!
+
+##Thoughts on the build
+Thank you for the opportunity to build this little module! Upon reflection, I found this challenge both fun and interesting. I enjoyed messing around with the different requirements. Getting functions to work in my favor so that I my work matched the specifications was rewarding. I also had the opportunity to learn more about the power of React, JavaScript, and Webpack as I did research to prepare.  
+
+I have not had the opportunity to use Webpack before, and as a result, struggled to load a style sheet. For some reason, it wouldn't create itself, and when I attempted to hard code a style sheet in, I kept getting the error, "stylesheet.css not found" no matter how I linked it in. So I coded my styles semi-inline by making them variables and adding them into the elements in my index.js file. This was quite limiting: I couldn't use css the way that I am used to so unfortunately, my design suffered for it.
+
+Another thing I struggled with was getting radio buttons to work properly. I omitted them and used buttons instead. They serve a similar purpose in the header of my module, but the url that it outputs doesn't quite follow the proper syntax. I have a lot to research and learn about React.js and Webpack, that's for sure.
+
+Overall, I enjoyed working on this mini-project, and look forward to learning how to achieve the things that I found to be roadblocks. Thanks for looking at it! I look forward to your getting your feedback.
+
 # PetList Test
 > These are a few modules of the 'Search Page' on our site.  
 To view how the search page acts go to https://dogvacay.com/browse

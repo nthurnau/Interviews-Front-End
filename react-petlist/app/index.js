@@ -180,7 +180,7 @@ var PetListing = React.createClass ({
         {this.props.title}
         </h2>
         <a className="listingLink" href="#" style={listingLinkStyle}>
-        //{this.props.link}-filler-url
+        Link to Owner&#8217;s Page: //{this.props.link}-filler-url
         </a>
         <h3 className="ownerName" style={ownerNameStyle}>
         {this.props.first} {this.props.last}

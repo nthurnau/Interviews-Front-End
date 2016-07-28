@@ -8,7 +8,7 @@ I have not had the opportunity to use Webpack before, and as a result, struggled
 
 Another thing I struggled with was getting radio buttons to work properly. I omitted them and used buttons instead. They serve a similar purpose in the header of my module, but the url that it outputs doesn't quite follow the proper syntax. I have a lot to research and learn about React.js and Webpack, that's for sure.
 
-Overall, I enjoyed working on this mini-project, and look forward to learning how to achieve the things that I found to be roadblocks. Thanks for looking at it! I look forward to your getting your feedback.
+Overall, I enjoyed working on this mini-project, and look forward to learning how to achieve the things that I found to be roadblocks. Thanks for looking at it! I look forward to your getting your feedback. 
 
 # PetList Test
 > These are a few modules of the 'Search Page' on our site.  

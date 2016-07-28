@@ -13,7 +13,7 @@ const config = {
   dir_src: 'src',
   dir_dist: 'dist',
   dir_test: '__tests__',
-  dir_example: 'example',
+  dir_app: 'app',
   dir_node_modules: 'node_modules',
   dir_lib: 'lib',
 
@@ -22,7 +22,7 @@ const config = {
   // ----------------------------------
   client_app: 'index.js',
   client_test_file: 'index.html',
-  example_file: 'index.html',
+  app_file: 'index.html',
   // ----------------------------------
   // Server Configuration
   // ----------------------------------

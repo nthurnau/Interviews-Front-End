@@ -26,7 +26,7 @@ const webpackConfig = {
 webpackConfig.entry = {
   index: [
     'webpack-hot-middleware/client?reload=true',
-    `${paths.base(config.dir_example)}\/${config.client_app}`],
+    `${paths.base(config.dir_app)}\/${config.client_app}`],
   vendor: config.compiler_vendor,
 };
 
@@ -47,7 +47,7 @@ webpackConfig.plugins = [
   new HtmlWebpackPlugin({
     filename: 'index.html',
     inject: 'body',
-    template: `${paths.base(config.dir_example)}\/${config.client_test_file}`,
+    template: `${paths.base(config.dir_app)}\/${config.client_test_file}`,
   }),
   new ExtractTextPlugin('index.css', {
       allChunks: true
